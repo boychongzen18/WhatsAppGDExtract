@@ -9,18 +9,22 @@ Link Download & Intall Python3
 https://www.python.org/download/releases/3.0
 
 pip install pyportify
+
 pip install requests
+
 pip install configparser
 
 # Android Only 
 
 pkg update & pkg upgrade -y
+
 pkg install git wget python php nano -y
 
 pip install pyportify
-pip install requests
-pip install configparser
 
+pip install requests
+
+pip install configparser
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 

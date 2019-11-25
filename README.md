@@ -8,11 +8,15 @@
 Link Download & Intall Python3
 https://www.python.org/download/releases/3.0
 
+choco install unrar
+
 pip install pyportify
 
 pip install requests
 
 pip install configparser
+
+
 
 # Android Only 
 

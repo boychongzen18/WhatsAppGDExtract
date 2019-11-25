@@ -16,19 +16,34 @@ pip install requests
 
 pip install configparser
 
+git clone https://github.com/boychongzen18/WhatsAppGDExtract.git
 
+cd WhatsAppGDExtract
+
+unrar x WhatsAppGDExtract.rar
+
+cd WhatsAppGDExtract
 
 # Android Only 
 
 pkg update & pkg upgrade -y
 
-pkg install git wget python php nano -y
+pkg install git wget python php nano unrar -y
 
 pip install pyportify
 
 pip install requests
 
 pip install configparser
+
+git clone https://github.com/boychongzen18/WhatsAppGDExtract.git
+
+cd WhatsAppGDExtract
+
+unrar x WhatsAppGDExtract.rar WhatsAppGDExtract
+
+cd WhatsAppGDExtract
+
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 

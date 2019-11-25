@@ -24,6 +24,8 @@ unrar x WhatsAppGDExtract.rar
 
 cd WhatsAppGDExtract
 
+Link Login Akun GoogleDrive https://accounts.google.com/b/0/DisplayUnlockCaptcha
+
 # Android Only 
 
 pkg update & pkg upgrade -y
@@ -43,6 +45,9 @@ cd WhatsAppGDExtract
 unrar x WhatsAppGDExtract.rar WhatsAppGDExtract
 
 cd WhatsAppGDExtract
+
+Link Login Akun GoogleDrive https://accounts.google.com/b/0/DisplayUnlockCaptcha
+
 
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
